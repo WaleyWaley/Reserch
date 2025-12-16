@@ -1,0 +1,2 @@
+gnn_hidden_dim,gnn_heads,dropout,lstm_hidden,lstm_num_layers,gnn_num_layers,kan_middle_dim,lr_phase1,weight_decay,kan_reg_weight,lambda_vel,lr_phase2,smooth_weight,consistency_weight
+32,2,0.4011055079602454,28,1,1,128,0.002739081513013747,3.4554602832872516e-05,4.17031854750352e-05,0.029230732276031263,3.7927820632194276e-05,1.0252192225568273e-05,0.00033433718376037804
